@@ -16,3 +16,5 @@ Se lee con el siguiente comando
     ! Jobs_Dataset = pd.read_csv('./fake_job_postings.csv')
    
 ## Videos
+
+- [Video primera entrega](https://vimeo.com/819723866/d57d4248fd?share=copy)
