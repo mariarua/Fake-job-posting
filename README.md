@@ -8,7 +8,7 @@
 
 Los datos del proyecto vienen de [Real / Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
 
-Se lee con las siguientes lineas de codigo
+Y se pueden hacer disponibles ejecutando desde el notebook en Colab los siguientes comandos
 
     !git clone https://github.com/mariarua/Fake-job-posting /content/drive/MyDrive/fake_job_posting
     Jobs_Dataset = pd.read_csv('/content/drive/MyDrive/fake_job_posting/fake_job_postings.csv')
